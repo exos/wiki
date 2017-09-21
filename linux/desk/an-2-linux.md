@@ -1,7 +1,7 @@
 <!-- TITLE: AN2Linux -->
 <!-- SUBTITLE: Recibír notificaciones de Android en ArchLinux -->
 
-    > Originalmente posteado en [log/3W](https://log.exos.ninja/3W)
+> Originalmente posteado en [log/3W](https://log.exos.ninja/3W)
 
 [AN2Linux](https://github.com/rootkiwi/an2linuxclient/)  es una utilidad bastante copada para recibir notificaciones desde Android. Obviamente no solo funciona en ArchLinux, pero en este post nos vamos a centrar en instalarlo para esta distribución.
 
