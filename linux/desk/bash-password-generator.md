@@ -5,7 +5,7 @@
 
 ---
 
-> Para tener un software generador de contraseñas fuertes y con varias opciones, podés hecharle un vistazo a [genpasswd](projects/genpasswd).
+> Para tener un software generador de contraseñas fuertes y con varias opciones, podés hecharle un vistazo a [genpasswd](/projects/genpasswd).
 
 ---
 
