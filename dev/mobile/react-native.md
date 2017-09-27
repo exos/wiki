@@ -25,6 +25,12 @@ o
 
 Luego seguir todos los pasos, estando atentos a que estamos instalando la `2.1.0`.
 
+## Navigation
+
+Otra de las grandes deprecaciones de react-native, desde la `0.44.0` deprecan el componente `Navigator`, con lo que recomiendan usar [react-navigation](https://reactnavigation.org), así que utilizar este componente, aún utilizando react `0.42.0` sería una mala práctica. Yo recomiendo, no solo empezar con **react-navigation** como dice la [documentación de react-native](https://facebook.github.io/react-native/docs/navigation.html), sino hacer un componente de navegación propio, así en futuras deprecaciones se puede adaptar a otra lib.
+
+Otra solución un poco menos recomendada, si se necesita si o si migrar una app a nuevas versiones de **react-native** y no hay tiempo, es utilizar el paquete `react-native-deprecated-custom-components` como se ve en [este post de stack overflow](https://stackoverflow.com/questions/44328243/react-native-navigator-is-deprecated-and-has-been-removed-from-this-package#45506347).
+
 # Tips
 
 ## Cambiando package id en android
