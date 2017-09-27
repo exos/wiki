@@ -5,7 +5,7 @@
 
 ---
 
-> Esta forma tiene algunas desventajas, te recomiendo ver [Cifrando directorios arbitrarios con EncFS](https://wiki.exos.ninja/linux/desk/enc-fs).
+> Esta forma tiene algunas desventajas, te recomiendo ver [Cifrando directorios arbitrarios con EncFS](/linux/desk/enc-fs).
 
 ---
 
