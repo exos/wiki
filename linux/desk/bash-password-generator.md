@@ -1,5 +1,5 @@
 <!-- TITLE: Generador de passwords fuertes en bash -->
-<!-- SUBTITLE: Utilizadon /dev/random -->
+<!-- SUBTITLE: Utilizando /dev/random -->
 
 > Originalmente posteado en [log/37](https://log.exos.ninja/37)
 
