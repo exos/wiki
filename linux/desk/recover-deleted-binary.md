@@ -1,5 +1,5 @@
 <!-- TITLE: Recuperar un binario ejecutable borrado, si todavía está ejecutándose. -->
-<!-- SUBTITLE: Episodio IV "The new hope" -->
+<!-- SUBTITLE: Episodio IV "A new hope" -->
 
 > Originalmente posteado en [log/E](https://log.exos.ninja/E)
 
