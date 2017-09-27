@@ -58,8 +58,7 @@ Se usa:
 
 Lo que logra que podamos comparar archivos así:
 
-![vimdiff](http://esfriki.com/f/vim01.png)
-
+![vimdiff](/uploads/tunning-git/vim-01.png "vimdiff")
 # Mejorando los logs!
 
 ```git log``` tiene una serie de parámetros para mejorar la vista de logs, ver las ramificaciones de los branches (en ascii) y usar colores, una buena combinación es:
@@ -68,7 +67,7 @@ Lo que logra que podamos comparar archivos así:
 
 De esta manera los logs se ven así:
 
-![gitlogs](http://esfriki.com/f/console1.png)
+![git logs](/uploads/tunning-git/console-1.png "git logs")
 
 Ahora como recordar toda esa cadena es un dolor de huevos, podemos simplemente crear un alias:
 
@@ -120,7 +119,7 @@ Por ejemplo:
 
 Se verá: 
 
-![colors](http://esfriki.com/f/console2.png)
+![colors](/uploads/tunning-git/console-2.png "colors")
 
 Entre los colores configurables tenemos:
 
@@ -161,7 +160,7 @@ Por ejemplo, en el archivo ```.git/hooks/pre-commit``` tengo:
 
 Eso ejecuta una tarea de grunt para revisar mi código, si eso da error, entonces el commit se detendrá:
 
-![failcommit](http://esfriki.com/f/console.png)
+![commit fail](/uploads/tunning-git/console.png "commit fail")
 
 # Usando ssh-keys diferentes por proyecto.
 
@@ -188,7 +187,7 @@ Como git es super fácil de usar con branches, [hay workflows](http://nvie.com/p
 
 El modelo mas usado es básicamente el de la branch *develop* y de *features* y *releases*:
 
-![flow](https://mockupstogo.mybalsamiq.com/mockups/4191.png)
+![flow](/uploads/tunning-git/4191.png "flow")
 
 Para seguirlo necesitamos crear todas las branchs necesarias en el proyecto y luego ir creando por ejemplo las de *features* desde *develop*, las de *hotfixes* desde *master*, después mergear a mano y etc.
 
